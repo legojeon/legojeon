@@ -42,7 +42,7 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
     <div align="center"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=legojeon&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF"/> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=legojeon&layout=compact&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF"/> 
+        <img src="https://github-readme-stats.vercel.app/api?username=legojeon&theme=transparent"/> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=legojeon&layout=compact&theme=transparent"/> 
     </div> 
 </div>
